@@ -16,7 +16,9 @@ python train.py
 
 ## Dataset
 
-The dataset used for training and evaluation consists of annotated images containing motorcycles with and without helmets, as well as vehicles with and without visible number plates. Due to some restrictions, we cannot provide the dataset directly. However, it can be obtained from https://www.shutterstock.com/search/motorcycle-india-helmet.
+The dataset used for training and evaluation consists of annotated images containing motorcycles with and without helmets, as well as vehicles with and without visible number plates. Due to some restrictions, we cannot provide the dataset directly. However, it can be obtained from,
+
+https://www.shutterstock.com/search/motorcycle-india-helmet.
 
 https://www.alamy.com/stock-photo/without-helmet.html
 
